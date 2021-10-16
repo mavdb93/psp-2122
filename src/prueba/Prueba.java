@@ -2,6 +2,6 @@ package prueba;
 
 public class Prueba {
     public static void main(String[] args){
-        System.out.println("Me pasere Guaperrimo papu peor mas chachi me pareses tu");
+        System.out.println("Me pasere Gnonodds tu ere to mejón achi me pareses tu");
     }
 }
