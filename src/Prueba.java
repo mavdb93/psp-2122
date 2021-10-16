@@ -1,5 +1,5 @@
 public class Prueba {
     public static void main(String[] args){
-        System.out.println("Holaadawddwaw Mundo!");
+        System.out.println("Locambio Mundo!");
     }
 }
