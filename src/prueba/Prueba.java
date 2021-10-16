@@ -2,6 +2,6 @@ package prueba;
 
 public class Prueba {
     public static void main(String[] args){
-        System.out.println("wdawdfbewklubwadawdwfk prueba!");
+        System.out.println("Me pasere chachi");
     }
 }
