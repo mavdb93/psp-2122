@@ -1,0 +1,17 @@
+total 44
+drwxrwxr-x 7 miky miky 4096 oct 16 23:19 .
+drwxrwxr-x 3 miky miky 4096 oct 16 17:11 ..
+-rw-rw-r-- 1 miky miky    0 oct 16 23:39 Actividad1_7_ERROR.txt
+-rw-rw-r-- 1 miky miky   55 oct 16 23:04 Actividad1_7_texto.txt
+-rw-rw-r-- 1 miky miky    0 oct 16 23:02 errorEjecutor.txt
+-rw-rw-r-- 1 miky miky    0 oct 16 23:40 errorEjemplo8.txt
+-rw-rw-r-- 1 miky miky    0 oct 16 22:48 error.txt
+drwxrwxr-x 8 miky miky 4096 oct 16 23:04 .git
+drwxrwxr-x 2 miky miky 4096 oct 16 23:40 .idea
+drwxrwxr-x 3 miky miky 4096 oct 16 17:59 out
+drwxrwxr-x 3 miky miky 4096 oct 16 18:22 psp-2122
+-rw-rw-r-- 1 miky miky  423 oct 16 17:59 psp-2122.iml
+-rw-rw-r-- 1 miky miky   63 oct 16 23:02 salidaEjecutor.txt
+-rw-rw-r-- 1 miky miky    0 oct 16 23:40 salidaEjemplo8.txt
+-rw-rw-r-- 1 miky miky  486 oct 16 22:48 salida.txt
+drwxrwxr-x 4 miky miky 4096 oct 16 22:51 src

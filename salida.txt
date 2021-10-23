@@ -1,0 +1,11 @@
+total 32
+drwxrwxr-x 7 miky miky 4096 oct 16 22:48 .
+drwxrwxr-x 3 miky miky 4096 oct 16 17:11 ..
+-rw-rw-r-- 1 miky miky    0 oct 16 22:48 error.txt
+drwxrwxr-x 8 miky miky 4096 oct 16 22:46 .git
+drwxrwxr-x 2 miky miky 4096 oct 16 22:48 .idea
+drwxrwxr-x 3 miky miky 4096 oct 16 17:59 out
+drwxrwxr-x 3 miky miky 4096 oct 16 18:22 psp-2122
+-rw-rw-r-- 1 miky miky  423 oct 16 17:59 psp-2122.iml
+-rw-rw-r-- 1 miky miky    0 oct 16 22:48 salida.txt
+drwxrwxr-x 4 miky miky 4096 oct 16 19:05 src
